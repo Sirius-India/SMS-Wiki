@@ -8,3 +8,5 @@ When you recieve an sms you would the the source of the sms is “AD-ADHAAR” s
 1. TOTAL TRAI SUBMITTED HEADERS - 22192
 2. TOTAL HEADERS IN OUR DATABASE - 22192
 3. TOTAL HEADERS WITH CIN MAPPED (EXTERNALLY) - 7379
+
+### The project is now live at  [https://smswiki-2024.web.app/](https://smswiki-2024.web.app/)
